@@ -35,13 +35,8 @@ I'm currently exploring kernel development and embedded systems programming to f
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=dark)
+![ GitHub profile](https://github.com/23077875)
 
-## 📫 Let's Connect
-
-- [LinkedIn](https://linkedin.com/in/[your-profile])
-- [Twitter](https://twitter.com/[your-handle])
-- [Email](mailto:[your-email])
 
 ---
 
