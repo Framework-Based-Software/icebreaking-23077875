@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Zohaib 👋
 
 <div align="center">
   <img src="profile.jpeg" width="200" height="200" style="border-radius:50%;" alt="Profile Image"/>
