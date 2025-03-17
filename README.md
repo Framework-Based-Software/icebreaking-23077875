@@ -33,9 +33,9 @@ Software engineer with a passion for low-level programming and a solid backgroun
 
 I'm currently exploring kernel development and embedded systems programming to further deepen my understanding of computer systems at their most fundamental levels.
 
-## 📊 GitHub Stats
+## 📊 GitHub Profile
 
-![ GitHub profile](https://github.com/23077875)
+![ GitHub profile](https://github.com/23077875/2307785)
 
 
 ---
