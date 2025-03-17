@@ -1,45 +1,11 @@
-# Hello, I'm Zohaib 👋
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/0MOLbOcH)
+# Introduction
+Hi! I'm Zoahib , a student in the Framework-Based Software Design and Development course. 
+I expect to use nodejs framework for this course unless the group decide otherwise 
 
-<div align="center">
-  <img src="profile.jpeg" width="200" height="200" style="border-radius:50%;" alt="Profile Image"/>
-</div>
+![My Image](<img src="profile.jpeg" style="border-radius:50%" width=200 height=200 />)  
 
-## 💻 About Me
+## GitHub Profile
 
-Software engineer with a passion for low-level programming and a solid background in enterprise development. I thrive on understanding systems from the ground up and developing efficient, scalable solutions.
+You can view my personalized GitHub profile [http://github.com/23077875]
 
-- 🐧 Linux enthusiast and daily driver
-- ⚙️ Fascinated by low-level programming and system internals
-- 🏢 Enterprise experience with C# .NET Core microservices
-- 🐰 RabbitMQ implementation specialist
-- 🔍 Always digging deeper to understand how things really work
-
-## 🛠️ Tech Stack
-
-```
-┌───────────────────────────────────────────────┐
-│                                               │
-│   Languages:  C, C++, C#, Assembly, Bash      │
-│   Platforms:  Linux, Windows, Docker          │
-│   Backend:    .NET Core, ASP.NET              │
-│   DevOps:     CI/CD, GitLab, GitHub Actions   │
-│   Messaging:  RabbitMQ, Kafka                 │
-│   Databases:  SQL Server, PostgreSQL          │
-│                                               │
-└───────────────────────────────────────────────┘
-```
-
-## 🔭 Current Focus
-
-I'm currently exploring kernel development and embedded systems programming to further deepen my understanding of computer systems at their most fundamental levels.
-
-## 📊 GitHub Profile
-
-![ GitHub profile](https://github.com/23077875/2307785)
-
-
----
-
-<div align="center">
-  <i>"Understanding the underlying principles makes everything else clearer."</i>
-</div>
