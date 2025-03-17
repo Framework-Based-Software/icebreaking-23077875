@@ -3,7 +3,7 @@
 Hi! I'm Zohaib , a student in the Framework-Based Software Design and Development course. 
 I expect to use nodejs framework for this course unless the group decide otherwise 
 
-![My Image](<img src="https://github.com/Framework-Based-Software/icebreaking-23077875/blob/profile-upload/profile.jpeg" style="border-radius:50%" width="200" height="200" />)  
+![My Image](<img src="https://raw.githubusercontent.com/Framework-Based-Software/icebreaking-23077875/refs/heads/profile-upload/profile.jpeg" style="border-radius:50%" width="200" height="200" />)  
 
 ## GitHub Profile
 
